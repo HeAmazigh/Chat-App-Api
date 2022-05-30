@@ -49,6 +49,3 @@ io.on("connection", (socket) => {
     }
   });
 });
-
-// ZCVuU7tmZ9RfbXf0
-// chatappuser
